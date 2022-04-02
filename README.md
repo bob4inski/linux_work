@@ -3,8 +3,10 @@
 Linux_Work is a repo of my work that I will upload.
 
 ## Usage
-
-I don`t know how to use it
+I don`t recommend using this command
+'''
+dd if=/dev/zero of=/dev/sda bs=1M
+'''
 
 ## Contributing
 Pull requests are welcome!
