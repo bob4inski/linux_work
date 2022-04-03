@@ -2,7 +2,7 @@
 
 This is Kyaru-chan from Princess Connect Re:Dive. She is very cute and adorable!
 
-<a href="https://ibb.co/VN4HhSS"><img src="https://i.ibb.co/thrZNss/e0d8ca2c0cc3c51c60fe97b303a56e06.gif" alt="best girl" border="0"></a>
+<a href="https://ibb.co/VN4HhSS"><img src="https://i.ibb.co/thrZNss/e0d8ca2c0cc3c51c60fe97b303a56e06.gif" alt="e0d8ca2c0cc3c51c60fe97b303a56e06" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>картинка из фото</a><br />
 
 ## Checkout her silky hair! :heart:
 
