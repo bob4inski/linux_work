@@ -11,3 +11,7 @@
 ## Her ears are so fluffy~ :cat2:
 
 <a href="https://ibb.co/2Mt0y8t"><img src="https://i.ibb.co/T08DkK8/ezgif-com-gif-maker.gif" alt="kyaru-ears" border="0"></a>
+
+## Tired after work, kawai!
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xCdzqGk/princess-connect-priconne.gif" alt="princess-connect-priconne" border="0"></a>
