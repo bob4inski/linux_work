@@ -1,6 +1,6 @@
 ## Start
 
-Before the installation we will need a custom CentOS7 virtual box image with SeLinux disabled.
+Before the installation we will need a custom CentOS7 virtual box image with SElinux disabled.
 
 ### DON`T FORGET TO EDIT VagrantFile with path to your ssh folder
 
