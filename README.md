@@ -12,6 +12,6 @@
 
 <a href="https://ibb.co/2Mt0y8t"><img src="https://i.ibb.co/T08DkK8/ezgif-com-gif-maker.gif" alt="kyaru-ears" border="0"></a>
 
-## Tired after work, kawai!
+## Look at her, kawai!
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/xCdzqGk/princess-connect-priconne.gif" alt="princess-connect-priconne" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/h8qHDPF/prin222cess-connect-re-dive-karyl.gif" alt="prin222cess-connect-re-dive-karyl" border="0"></a>
