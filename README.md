@@ -2,7 +2,7 @@
 
 Linux_Work is a repo of my work that I will upload.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fkaryl-kyaru-princess-connect-re-dive-anime-gif-16984595&psig=AOvVaw2VwSBQazQX0mS5wdtqSW8B&ust=1649093385911000&source=images&cd=vfe&ved=2ahUKEwiPu4Ldtfj2AhWlhv0HHVYsBVcQjRx6BAgAEAk)
+![alt text](https://images.app.goo.gl/X4shE8cdcMstXyz87)
 
 ## Usage
 I don`t recommend using this command
