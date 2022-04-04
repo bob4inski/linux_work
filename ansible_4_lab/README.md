@@ -29,7 +29,7 @@ It should look like this:
 
 <a href="https://ibb.co/kq8VjL5"><img src="https://i.ibb.co/xzjKWnX/vagrant-result.png" alt="vagrant-result" border="0"></a>
 
-Try refreshing the page to see if numbers on page are changing. If they don`t change try using ctrl + F5 to refresh cache as well
+Try refreshing the page to see if numbers on page are changing. If they don`t change try using CTRL+F5 to refresh cache as well
 
 ## Done
 
