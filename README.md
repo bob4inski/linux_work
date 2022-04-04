@@ -12,6 +12,6 @@
 
 <a href="https://ibb.co/2Mt0y8t"><img src="https://i.ibb.co/T08DkK8/ezgif-com-gif-maker.gif" alt="kyaru-ears" border="0"></a>
 
-## 全部めちゃ可愛い！
+## 全部めちゃ可愛い！:heart_eyes_cat:
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/h8qHDPF/prin222cess-connect-re-dive-karyl.gif" alt="prin222cess-connect-re-dive-karyl" border="0"></a>
