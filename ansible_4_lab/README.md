@@ -31,6 +31,10 @@ It should look like this:
 
 Try refreshing the page to see if numbers on page are changing. If they don`t change try using CTRL+F5 to refresh cache as well
 
+Different page:
+
+<a href="https://ibb.co/qWb7P8v"><img src="https://i.ibb.co/9VRcC07/vagrant-sec-page.png" alt="vagrant-sec-page" border="0"></a>
+
 ## Done
 
 You can get yourself a coffee! ☕
